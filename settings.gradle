@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "SuiviStage"
+rootProject.name = "My Application"
