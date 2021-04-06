@@ -1,1 +1,4 @@
 /build
+ .idea/.name
+app/.gitignore
+app/src/
